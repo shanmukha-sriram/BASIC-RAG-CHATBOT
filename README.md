@@ -92,6 +92,12 @@ The chatbot opens in your browser at `http://127.0.0.1:7860`.
 ---
 
 ## 💬 Example Questions
+![Insurellm Assistant Screenshot]<img width="1622" height="1027" alt="Screenshot 2026-08-30 175123" src="https://github.com/user-attachments/assets/61066826-f25d-49f8-9cd8-37ade0235768" />
+
+![Insurellm Assistant Screenshot]<img width="1575" height="1030" alt="Screenshot 2026-08-30 175146" src="https://github.com/user-attachments/assets/fbc8390e-dce9-43c5-841a-46a48eb051b9" />
+
+
+
 
 | Question | Answered from |
 |---|---|
